@@ -1,0 +1,1 @@
+analyzing of data
