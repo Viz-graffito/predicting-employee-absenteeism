@@ -15,8 +15,8 @@ weather or not an employee can be expected to be missing for a specific number o
 
 **module already provided by Udemy**
 
-###### technique used in model :
-## Logistic Regression
+## technique used in model :
+**Logistic Regression**
 
 - dependent variable : Absenteeism Time in Hours.
 - Indedependent variables : Reason for Absence, Date, Transportation Expense, Distance to Work, Age, Daily Work Load Average, Body Mass Index, Education, Children, Pets.
